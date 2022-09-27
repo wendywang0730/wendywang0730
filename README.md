@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 大家好呀~ 👋
 
 <!--
 **wendywang0730/wendywang0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
